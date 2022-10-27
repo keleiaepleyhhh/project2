@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+}
+
+.gone {
+    font-family: cochin;
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.gone:hover {
+    animation: changeSize 3s forwards 1;
+}
+
+@keyframes changeSize {
+    0% {
+        color: red;
+        font-size: medium;
+    }
+
+    100% {
+        color: black;
+        font-size: x-small;
+    }
+}

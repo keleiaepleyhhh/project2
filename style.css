@@ -1,0 +1,73 @@
+* {
+    background-color: floralwhite;
+}
+
+#line1 {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+    margin-top: 200px;
+}
+
+#line2 {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+}
+
+#line3 {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+}
+
+#line4 {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+}
+
+#line5 {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+}
+
+a {
+    font-family: Cochin; color:darkslateblue;
+    text-align: center;
+}
+
+.dont {
+    font-family: Cochin; color:darkslateblue;
+    font-style: italic;
+}
+
+.dont:hover {
+    animation: fade 1s forwards 1;
+    font-style: italic;
+}
+
+#nothing {
+    font-family: Cochin; color:darkslateblue;
+    font-style: italic;
+}
+
+#nothing:hover {
+    animation: fade 1s forwards 1;
+    font-style: italic;
+}
+
+#never {
+    font-family: Cochin; color: darkslateblue;
+    font-style: italic;
+}
+
+#never:hover {
+    animation: fade 1s forwards 1;
+    font-style: italic;
+}
+
+@keyframes fade {
+    0% {
+        color: darkslateblue
+    }
+    100% {
+        color: floralwhite;
+    }
+}
