@@ -4,15 +4,15 @@
 
 .gone {
     font-family: cochin;
-    color: red;
-    font-size: medium;
+    color: darkred;
+    font-size: 20pt;
     font-weight: bold;
     text-align: center;
     margin-top: 200px;
 }
 
 .gone:hover {
-    animation: changeSize 3s forwards 1;
+    animation: changeSize 4s forwards 1;
 }
 
 @keyframes changeSize {
