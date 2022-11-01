@@ -4,33 +4,33 @@
 
 #line1 {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
     margin-top: 200px;
+    margin-left: 100px;
 }
 
 #line2 {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
+    margin-left: 250px;
 }
 
 #line3 {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
+    margin-left: 400px;
 }
 
 #line4 {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
+    margin-left: 650px;
 }
 
 #line5 {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
+    margin-left: 800px;
 }
 
 a {
     font-family: Cochin; color:darkslateblue;
-    text-align: center;
+    margin-left: 950px;
 }
 
 .dont {
