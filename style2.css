@@ -5,14 +5,14 @@
 .gone {
     font-family: cochin;
     color: darkred;
-    font-size: 20pt;
+    font-size: 26pt;
     font-weight: bold;
     text-align: center;
     margin-top: 200px;
 }
 
 .gone:hover {
-    animation: changeSize 4s forwards 1;
+    animation: changeSize 5s forwards 1;
 }
 
 @keyframes changeSize {
