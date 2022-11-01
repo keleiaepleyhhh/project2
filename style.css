@@ -65,7 +65,7 @@ a {
 
 @keyframes fade {
     0% {
-        color: darkslateblue
+        color: darkslateblue;
     }
     100% {
         color: floralwhite;
