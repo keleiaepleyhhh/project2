@@ -21,13 +21,17 @@
         font-size: 35pt;
     }
     
-    50% {
+    33% {
         color: red;
         font-size: 20pt;
     }
 
-    100% {
+    67% {
         color: black;
         font-size: 5pt;
+    }
+    100% {
+        color: floralwhite;
+        font-size: 1pt;
     }
 }
