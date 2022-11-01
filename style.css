@@ -15,17 +15,21 @@
 
 #line3 {
     font-family: Cochin; color:darkslateblue;
-    margin-left: 385px;
+    margin-left: 400px;
 }
 
 #line4 {
     font-family: Cochin; color:darkslateblue;
-    margin-left: 250px;
+    margin-top: 200px;
+    margin-left: 550px;
+    display: inline-block;
 }
 
 #line5 {
     font-family: Cochin; color:darkslateblue;
+    margin-top: 200px;
     margin-left: 100px;
+    display: inline-block;
 }
 
 a {
