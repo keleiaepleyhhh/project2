@@ -22,8 +22,9 @@
     }
     
     50% {
-        color: darkred;
+        color: red;
         font-size: 20pt;
+    }
 
     100% {
         color: black;
