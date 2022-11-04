@@ -32,16 +32,6 @@
     margin-left: 700px;
 }
 
-.triangle1 {
-    display: inline-block;
-    margin-top: 100px;
-}
-
-.triangle2 {
-    display: inline-block;
-    margin-top: 200px;
-}
-
 a {
     font-family: Cochin; color:darkslateblue;
     margin-left: 100px;
@@ -73,13 +63,16 @@ a {
 }
 
 #never:hover {
-    animation: fade 1s forwards 1;
+    animation: fade 2s forwards 1;
     font-style: italic;
 }
 
 @keyframes fade {
     0% {
         color: darkslateblue;
+    }
+    50% {
+        color: darkred;
     }
     100% {
         color: floralwhite;
