@@ -31,6 +31,6 @@
     100% {
         color: floralwhite;
         font-size: 2pt;
-        transform: rotate(360deg)
+        transform: rotate(360deg);
     }
 }
