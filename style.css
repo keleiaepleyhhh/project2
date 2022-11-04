@@ -72,6 +72,6 @@ a {
     }
     100% {
         color: floralwhite;
-        transform: skew(80deg);
+        transform: skew(120deg);
     }
 }
