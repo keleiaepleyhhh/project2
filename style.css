@@ -59,7 +59,7 @@ a {
 }
 
 #never:hover {
-    animation: fade 2s forwards 1;
+    animation: fade 3s forwards 1;
     font-style: italic;
 }
 
