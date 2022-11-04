@@ -72,6 +72,7 @@ a {
     }
     100% {
         color: floralwhite;
-        transform: skew(160deg);
+        font-size: 5pt;
+        transform: skew(120deg);
     }
 }
