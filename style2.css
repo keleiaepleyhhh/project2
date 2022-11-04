@@ -23,15 +23,14 @@
     
     33% {
         color: red;
-        font-size: 20pt;
     }
 
     67% {
         color: black;
-        font-size: 5pt;
     }
     100% {
         color: floralwhite;
-        font-size: 1pt;
+        font-size: 2pt;
+        transform: rotate(360deg)
     }
 }
